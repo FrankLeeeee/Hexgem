@@ -1,7 +1,7 @@
 <p align="center"> <img src=".github/assets/gem.png" width="230" alt="..."> </p>
 
 <h1 align="center">
-    Hex
+    Hexgem
 </h1>
 
 <p align="center">
@@ -21,4 +21,4 @@
 
 # Hex
 
-Hex is a web platform for statistical comparison between open-source projects on GitHub. This name is taken from **Hextech** in League of Legends, which is a symbol of knowledge and represented by a gemstone.
+Hex is a web platform for statistical comparison between open-source projects on GitHub. This name is taken from **Hextech** in League of Legends, which is a symbol of knowledge and represented by a **gemstone**.
