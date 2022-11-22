@@ -130,3 +130,7 @@ dmypy.json
 
 # mac os cache
 .DS_Store
+
+# IDE cache
+.vscode
+.idea
