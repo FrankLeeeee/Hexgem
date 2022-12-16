@@ -1,6 +1,6 @@
 '''
-File: collector.py
-Project: Hex
+File: repo_stat_collector.py
+Project: Hexgem
 File Created: Tuesday, 22nd November 2022 4:27:56 pm
 Author: Li Shenggui (somerlee.9@gmail)
 -----
@@ -9,10 +9,10 @@ Modified By: Li Shenggui (somerlee.9@gmail>)
 -----
 '''
 
-__all__ = ['GithubStatsCollector']
+__all__ = ['RepositoryStatsCollector']
 
 
-class GithubStatsCollector:
+class RepositoryStatsCollector:
     """
     This is a class to handle the data retrieval from GitHub.
 
